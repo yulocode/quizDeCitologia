@@ -159,6 +159,10 @@ function showResult(){
         let scoreTag = '<span>boa 😎, você acertou <p>'+ userScore +'</p> de <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
+    else if(userScore = 5) {
+        let scoreTag = '<image src="https://i.pinimg.com/736x/23/78/0e/23780ec03066a261d6ad79f99cf82584.jpg"></image>'
+        scoreText.innerHTML = scoreTag
+    }
     else{ // if user scored less than 1
         let scoreTag = '<span><p>burro do caraio, errou tudo</p></span>';
         scoreText.innerHTML = scoreTag;
