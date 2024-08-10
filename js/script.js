@@ -164,6 +164,8 @@ function showResult(){
         let scoreTag = '<span><p>burro do caraio, errou tudo</p></span>';
         scoreText.innerHTML = scoreTag;
     }
+    let scoreTag = '<p>Jogo Criado por Yulo e Silas</p>'
+    scoreText.innerHTML = scoreTag
 }
 
 function startTimer(time){
