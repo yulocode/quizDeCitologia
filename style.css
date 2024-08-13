@@ -57,7 +57,7 @@ body{
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3s ease;
+    transition: all 0.6s ease;
 }
 
 .info_box .info-title{
@@ -105,7 +105,7 @@ body{
     outline: none;
     border-radius: 5px;
     border: 1px solid #33ff33;
-    transition: all 0.1s ease;
+    transition: all 0.6s ease;
 }
 
 .quiz_box{
@@ -115,7 +115,7 @@ body{
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
-    transition: all 0.1s ease;
+    transition: all 0.6s ease;
 }
 
 .quiz_box header{
@@ -240,7 +240,7 @@ section .option_list .option .icon{
     text-align: center;
     font-size: 13px;
     pointer-events: none;
-    transition: all 0.3s ease;
+    transition: all 0.6s ease;
     line-height: 24px;
 }
 .option_list .option .icon.tick{
@@ -294,7 +294,7 @@ footer button{
     opacity: 0;
     pointer-events: none;
     transform: scale(0.95);
-    transition: all 0.3s ease;
+    transition: all 0.6s ease;
 }
 
 footer button:hover{
@@ -319,7 +319,7 @@ footer button.show{
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3s ease;
+    transition: all 0.6s ease;
 }
 
 .result_box .icon{
@@ -361,7 +361,7 @@ footer button.show{
     outline: none;
     border-radius: 5px;
     border: 1px solid #009933;
-    transition: all 0.3s ease;
+    transition: all 0.6s ease;
 }
 
 .buttons button.restart{
