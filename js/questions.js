@@ -73,12 +73,25 @@ let questions = [
       "Gasta energia",
       "As substâncias são transportadas através da membrana plasmática por meio de proteínas transportadoras específicas",
       "O transporte ativo é não utilizado para transportar nutrientes essenciais, como glicose e aminoácidos, para dentro da célula, especialmente quando essas moléculas estão em menor concentração dentro da célula do que fora dela.",
-      "Um exemplo de Transporte Ativo é a Bomba de Sódio e Potássio"
+      "Um exemplo de Transporte Ativo é a Bomba de Sódio e Potássio",
+      ""
     ]
   },
   {
     numb: 8,
-    question: "Quais dos seres vivos abaixo não são multicelulares: ",
+    question: "Qual das alternativas abaixo não são parte de uma célula animal: ",
+    answer: "Parede Celular",
+    options: [
+      "Membrana Plasmática",
+      "Parede Celular",
+      "Núcleo",
+      "Nucleolo",
+      "Citoplasma"
+    ]
+  },
+  {
+    numb: 9,
+    question: "Qual dos seres vivos abaixo não são multicelulares: ",
     answer: "Cianobactérias",
     options: [
       "Cianobactérias",
@@ -86,17 +99,6 @@ let questions = [
       "Cogumelo",
       "Corais",
       "Anêmonas-do-mar"
-    ]
-  },
-  {
-    numb: 9,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
-    options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
     ]
   },
   {
