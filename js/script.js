@@ -161,9 +161,13 @@ function showResult(){
         scoreText.innerHTML = scoreTag;
     }
   
-    else if(userScore <= 5){ // if user scored less than 1
+    else if(userScore >= 5){ // if user scored less than 1
         let scoreTag = '<span>MUITOOO RUIM!! 😂😂<p>'+ userScore +'</p> de <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
+    }
+    else {
+        let scoreTag = '<span>INCOPETENTE!! 😂😂<p> ' + userScore + '</p> de <p>' + questions.length + '</p></span>'
+        scoreTag.innerHTML = scoreTag
     }
     scoreText.innerHTML = scoreTag
 }
