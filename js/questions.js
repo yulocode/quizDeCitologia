@@ -56,35 +56,36 @@ let questions = [
   },
   {
     numb: 6,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "A Biologia Celular, também chamada de Citologia, é o ramo da Biologia dedicado ao estudo das células. Qual das alternativas abaixo descreve corretamente uma célula eucarionte?",
+    answer: "Membrana plasmática, citoplasma e núcleo definido",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "Parede celular, ribossomos e citoplasma",
+      "Citoplasma, material genético e parede celular.",
+      "Membrana plasmática, citoplasma e núcleo definido",
+      "Cápsula, membrana plasmática e DNA"
     ]
   },
   {
     numb: 7,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "Sobre o transporte ativo, quais das afirmações abaixo são falsas: ",
+    answer: "O transporte ativo é não utilizado para transportar nutrientes essenciais, como glicose e aminoácidos, para dentro da célula, especialmente quando essas moléculas estão em menor concentração dentro da célula do que fora dela.",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "Gasta energia",
+      "As substâncias são transportadas através da membrana plasmática por meio de proteínas transportadoras específicas",
+      "O transporte ativo é não utilizado para transportar nutrientes essenciais, como glicose e aminoácidos, para dentro da célula, especialmente quando essas moléculas estão em menor concentração dentro da célula do que fora dela.",
+      "Um exemplo de Transporte Ativo é a Bomba de Sódio e Potássio"
     ]
   },
   {
     numb: 8,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "Quais dos seres vivos abaixo não são multicelulares: ",
+    answer: "Cianobactérias",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "Cianobactérias",
+      "Fungo",
+      "Cogumelo",
+      "Corais",
+      "Anêmonas-do-mar"
     ]
   },
   {
