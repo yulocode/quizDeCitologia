@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: image("espermatozoide.jpg");
+    background-image:url("espermatozoide.jpg");
 }
 
 ::selection{
