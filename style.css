@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: "./como-funciona-a-coleta-de-espermatozoides-na-reproducao-1024x536.jpg";
+    background-image: image("espermatozoide.jpg");
 }
 
 ::selection{
