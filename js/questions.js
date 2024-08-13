@@ -103,13 +103,14 @@ let questions = [
   },
   {
     numb: 10,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "Qual dos transporte através das membranas celulares abaixo estão correto?",
+    answer: "Exocitose",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "Andacitose",
+      "Encitose",
+      "Difusão Passiva",
+      "Difusão Ativo",
+      "Exocitose"
     ]
   },
   {
