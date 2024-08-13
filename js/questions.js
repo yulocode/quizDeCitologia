@@ -170,68 +170,14 @@ let questions = [
   },
   {
     numb: 15,
-    question: "Os centríolos exercem importantes funções no processo de:",
+    question: "Qual das alternativas abaixo a Endocitose não faz:",
     answer: "Divisão celular",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "Permite a absorção de nutrientes e outras substâncias essenciais.",
+      "Ajuda a remover patógenos e partículas estranhas.",
+      "Ajuda na reciclagem de proteínas e lipídios da membrana plasmática.",
+      "Facilita a internalização de sinais e moléculas de comunicação.",
+      "Faz a absorção de grandes partículas e macromoléculas para o interior da célula."
     ]
   },
-  {
-    numb: 16,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
-    options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
-    ]
-  },
-  {
-    numb: 17,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
-    options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
-    ]
-  },
-  {
-    numb: 18,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
-    options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
-    ]
-  },
-  {
-    numb: 19,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
-    options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
-    ]
-  },
-  {
-    numb: 20,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
-    options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
-    ]
-  }
 ];
