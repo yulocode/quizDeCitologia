@@ -54,4 +54,15 @@ let questions = [
       "Respiração celular"
     ]
   },
+  {
+    numb: 6,
+    question: "Os centríolos exercem importantes funções no processo de:",
+    answer: "Divisão celular",
+    options: [
+      "Secreção de substâncias",
+      "Transporte intracelular",
+      "Divisão celular",
+      "Respiração celular"
+    ]
+  },
 ];
