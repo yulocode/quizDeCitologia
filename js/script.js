@@ -151,18 +151,18 @@ function showResult(){
     quiz_box.classList.remove("activeQuiz"); //hide quiz box
     result_box.classList.add("activeResult"); //show result box
     const scoreText = result_box.querySelector(".score_text");
-    if (userScore > 3){ // if user scored more than 3
+    if (userScore > 8){ // if user scored more than 3
         //creating a new span tag and passing the user score number and total question number
         let scoreTag = '<span>GÊNIO! 🤩, você acertou<p>' + userScore + '<p> de </p>' + questions.length + '<br> Jogo Criado por Yulo e Silas </p></span>' 
         scoreText.innerHTML = scoreTag
     }
-    else if(userScore > 1){ // if user scored more than 1
+    else if(userScore >= 6){ // if user scored more than 1
         let scoreTag = '<span>boa 😎, você acertou <p>'+ userScore +'</p> de <p>'+ questions.length +'<br> Jogo Criado por Yulo e Silas</p></span>';
         scoreText.innerHTML = scoreTag;
     }
   
-    else{ // if user scored less than 1
-        let scoreTag = '<span>burro do caraio<p>, errou tudo <br> Jogo Criado por Yulo e Silas </p></span>';
+    else if(userScore <= 5){ // if user scored less than 1
+        let scoreTag = '<span>MUITOOO RUIM!! 😂😂<p>'+ userScore +'</p> de <p>'+ questions.length +'<br> Jogo Criado por Yulo e Silas </p></span>';
         scoreText.innerHTML = scoreTag;
     }
     scoreText.innerHTML = scoreTag
