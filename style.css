@@ -146,7 +146,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 145px;
+    width: 245px;
 }
 
 .quiz_box header .timer .time_left_txt{
@@ -164,8 +164,8 @@ body{
     border-radius: 5px;
     line-height: 30px;
     text-align: center;
-    background: #41068f;
-    border: 1px solid #41068f;
+    background: #80ffcc;
+    border: 1px solid #00ff99;
     user-select: none;
 }
 
@@ -174,7 +174,7 @@ body{
     bottom: 0px;
     left: 0px;
     height: 3px;
-    background: #41068f;
+    background: #2c0c55;
 }
 
 section{
