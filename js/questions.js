@@ -7,7 +7,8 @@ let questions = [
       "Uma proteína.",
       "A glicose",
       "O ácido desoxirribonucleico.",
-      "O RNA"
+      "O RNA",
+      "Carboidratos"
     ]
   },
     {
@@ -18,7 +19,8 @@ let questions = [
       "O aparelho de Golgi.",
       "As mitocôndrias.",
       "Os lisossomos.",
-      "O retículo endoplasmático."
+      "O retículo endoplasmático.",
+      "Ribossomos"
     ]
   },
     {
@@ -29,7 +31,8 @@ let questions = [
       "Proteínas, lípides , carboidratos e ácido nucleicos.",
       "Proteínas, aminoácidos, carboidratos e lisossomos.",
       "Proteínas, glicose, carboidratos e lisossomos.",
-      "Proteínas, lípides, carboidratos e glicose."
+      "Proteínas, lípides, carboidratos e glicose.",
+      "Proteínas, lipídios, carboidratos e sais minerais"
     ]
   },
     {
@@ -40,7 +43,8 @@ let questions = [
       "Ribossomos.",
       "Parede celular.",
       "DNA.",
-      "Núcleo."
+      "Núcleo.",
+      "Citoplasma"
     ]
   },
     {
@@ -51,7 +55,8 @@ let questions = [
       "Secreção de substâncias",
       "Transporte intracelular",
       "Divisão celular",
-      "Respiração celular"
+      "Respiração celular",
+      "efe"
     ]
   },
   {
