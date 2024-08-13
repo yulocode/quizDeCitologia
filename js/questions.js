@@ -61,7 +61,7 @@ let questions = [
   },
   {
     numb: 6,
-    question: "A Biologia Celular, também chamada de Citologia, é o ramo da Biologia dedicado ao estudo das células. Qual das alternativas abaixo descreve corretamente uma célula eucarionte?",
+    question: "Qual das alternativas abaixo descreve corretamente uma célula eucarionte?",
     answer: "Membrana plasmática, citoplasma e núcleo definido",
     options: [
       "Parede celular, ribossomos e citoplasma",
@@ -120,13 +120,14 @@ let questions = [
   },
   {
     numb: 11,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "Também chamada de Citologia, ela é o ramo da Biologia dedicado ao estudo das?. ",
+    answer: "Células",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular",
+      "Células",
+      "Cianobactérias",
+      "Metabolismo",
+      "Biosfera",
+      "A vida na terra"
     ]
   },
   {
@@ -137,7 +138,8 @@ let questions = [
       "Secreção de substâncias",
       "Transporte intracelular",
       "Divisão celular",
-      "Respiração celular"
+      "Respiração celular",
+      ""
     ]
   },
   {
