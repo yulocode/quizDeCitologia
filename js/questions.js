@@ -145,24 +145,27 @@ let questions = [
   },
   {
     numb: 13,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "O que é Endositose?",
+    answer: "O processo pelo qual a célula captura e internaliza substâncias do ambiente externo formando vesículas.",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "A divisão da célula em duas células filhas durante a mitose",
+      "O transporte passivo de moléculas através da membrana celular a favor do gradiente de concentração",
+      "A síntese de proteínas no retículo endoplasmático",
+      "O processo pelo qual a célula captura e internaliza substâncias do ambiente externo formando vesículas.",
+      "A liberação de substâncias para o exterior da célula através da fusão de vesículas com a membrana plasmática"
+
     ]
   },
   {
     numb: 14,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "O que caracteriza uma célula procariótica?",
+    answer: "Ausência de organelas membranosas",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular"
+      "Presença de mitocôndrias",
+      "Ausência de organelas membranosas",
+      "Presença de aparelho de Golgi",
+      "Presença de cloroplastos",
+      "Presença de núcleo delimitado por membrana"
     ]
   },
   {
