@@ -105,7 +105,7 @@ body{
     outline: none;
     border-radius: 5px;
     border: 1px solid #33ff33;
-    transition: all 0.3s ease;
+    transition: all 0.1s ease;
 }
 
 .quiz_box{
