@@ -165,9 +165,9 @@ function showResult(){
         let scoreTag = '<span>MUITOOO RUIM!! 😂😂<p>'+ userScore +'</p> de <p>'+ questions.length +'</p></span>';
         scoreText.innerHTML = scoreTag;
     }
-    else {
+    else if(userScore <= 4) {
         let scoreTag = '<span>INCOPETENTE!! 😂😂<p> ' + userScore + '</p> de <p>' + questions.length + '</p></span>'
-        scoreTag.innerHTML = scoreTag
+        scoreText.innerHTML = scoreTag
     }
     scoreText.innerHTML = scoreTag
 }
