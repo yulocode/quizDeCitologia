@@ -117,9 +117,9 @@ let questions = [
       "Secreção de substâncias",
       "Transporte intracelular",
       "Divisão celular",
-      "Respiração celular"
+      "Respiração celular",
     ]
-  }
+  },
   {
     numb: 12,
     question: "Os centríolos exercem importantes funções no processo de:",
@@ -130,7 +130,7 @@ let questions = [
       "Divisão celular",
       "Respiração celular"
     ]
-  }
+  },
   {
     numb: 13,
     question: "Os centríolos exercem importantes funções no processo de:",
@@ -141,7 +141,7 @@ let questions = [
       "Divisão celular",
       "Respiração celular"
     ]
-  }
+  },
   {
     numb: 14,
     question: "Os centríolos exercem importantes funções no processo de:",
@@ -152,7 +152,7 @@ let questions = [
       "Divisão celular",
       "Respiração celular"
     ]
-  }
+  },
   {
     numb: 15,
     question: "Os centríolos exercem importantes funções no processo de:",
