@@ -115,7 +115,7 @@ body{
     transform: translate(-50%, -50%) scale(0.9);
     opacity: 0;
     pointer-events: none;
-    transition: all 0.3s ease;
+    transition: all 0.1s ease;
 }
 
 .quiz_box header{
@@ -146,7 +146,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 245px;
+    width: 145px;
 }
 
 .quiz_box header .timer .time_left_txt{
