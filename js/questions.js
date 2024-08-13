@@ -171,7 +171,7 @@ let questions = [
   {
     numb: 15,
     question: "Qual das alternativas abaixo a Endocitose não faz:",
-    answer: "Divisão celular",
+    answer: "Faz a absorção de grandes partículas e macromoléculas para o interior da célula.",
     options: [
       "Permite a absorção de nutrientes e outras substâncias essenciais.",
       "Ajuda a remover patógenos e partículas estranhas.",
