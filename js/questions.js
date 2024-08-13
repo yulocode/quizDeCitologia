@@ -56,7 +56,7 @@ let questions = [
       "Transporte intracelular",
       "Divisão celular",
       "Respiração celular",
-      "efe"
+      "Morte das Células"
     ]
   },
   {
@@ -67,7 +67,8 @@ let questions = [
       "Parede celular, ribossomos e citoplasma",
       "Citoplasma, material genético e parede celular.",
       "Membrana plasmática, citoplasma e núcleo definido",
-      "Cápsula, membrana plasmática e DNA"
+      "Cápsula, membrana plasmática e DNA",
+      "Possui ribossomos, que são organelas envolvidas na síntese de proteínas."
     ]
   },
   {
@@ -79,7 +80,7 @@ let questions = [
       "As substâncias são transportadas através da membrana plasmática por meio de proteínas transportadoras específicas",
       "O transporte ativo é não utilizado para transportar nutrientes essenciais, como glicose e aminoácidos, para dentro da célula, especialmente quando essas moléculas estão em menor concentração dentro da célula do que fora dela.",
       "Um exemplo de Transporte Ativo é a Bomba de Sódio e Potássio",
-      ""
+      "O transporte ativo mantém gradientes eletroquímicos"
     ]
   },
   {
@@ -132,14 +133,14 @@ let questions = [
   },
   {
     numb: 12,
-    question: "Os centríolos exercem importantes funções no processo de:",
-    answer: "Divisão celular",
+    question: "O que é Exocitose?",
+    answer: "O processo pelo qual as células eliminam substâncias para o exterior.",
     options: [
-      "Secreção de substâncias",
-      "Transporte intracelular",
-      "Divisão celular",
-      "Respiração celular",
-      ""
+      "O transporte de nutrientes para dentro da célula",
+      "A divisão celular durante a mitose",
+      "O processo pelo qual as células eliminam substâncias para o exterior.",
+      "A síntese de proteínas no retículo endoplasmático.",
+      "A formação de novas organelas dentro da célula."
     ]
   },
   {
