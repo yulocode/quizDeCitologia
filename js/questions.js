@@ -78,7 +78,7 @@ let questions = [
     options: [
       "Gasta energia",
       "As substâncias são transportadas através da membrana plasmática por meio de proteínas transportadoras específicas",
-      "O transporte ativo é não utilizado para transportar nutrientes essenciais, como glicose e aminoácidos, para dentro da célula, especialmente quando essas moléculas estão em menor concentração dentro da célula do que fora dela.",
+      "O transporte ativo é não utilizado para transportar nutrientes essenciais, como glicose e aminoácidos, para dentro da célula.",
       "Um exemplo de Transporte Ativo é a Bomba de Sódio e Potássio",
       "O transporte ativo mantém gradientes eletroquímicos"
     ]
